@@ -1,5 +1,5 @@
 data "aws_partition" "current" {}
-Errores presentados aquie
+Errores presentados aqui pero vamos a ver
 locals {
   create = var.create && var.putin_khuylo
 
